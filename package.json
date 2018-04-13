@@ -37,6 +37,8 @@
     "pa11y-reporter-cli": "^1.0.1",
     "pa11y-reporter-csv": "^1.0.0",
     "pa11y-reporter-json": "^1.0.0",
+    "pa11y-runner-axe": "^0.3.0",
+    "pa11y-runner-htmlcs": "^0.2.0",
     "puppeteer": "^1.4.0",
     "semver": "^5.5.0"
   },
@@ -45,7 +47,7 @@
     "eslint": "^4.17.0",
     "mocha": "^5.0.1",
     "mockery": "^2.0.0",
-    "nyc": "^11.4.1",
+    "nyc": "^11.8.0",
     "pa11y-lint-config": "^1.2.1",
     "proclaim": "^3.5.1",
     "sinon": "^4.3.0"
